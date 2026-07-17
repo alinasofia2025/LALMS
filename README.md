@@ -4,8 +4,8 @@ Sistem ini dibina berdasarkan struktur sistem khairat/ReCRUD yang awak berikan. 
 
 ## Login Admin
 
-- Email: `admin@localhost.com`
-- Password: `123456`
+- Email: `admin@lalms.edu.my`
+- Password: `password`
 
 ## Requirements
 
